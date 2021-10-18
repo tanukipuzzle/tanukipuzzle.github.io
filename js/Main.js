@@ -37,6 +37,6 @@ function updateAll(){
 	drawPuzzle();
 	drawMoving();
 	colorText("CoNgratulatioNs, Ishy!!", 300,100, "white");
-	colorText("Now that you have fiNished all puzzles, what do all the items have iN commoN?",50,520, "white");
+	colorText("Now that you have finished all puzzles, what do all the items have in common?",50,520, "white");
 	}
 }

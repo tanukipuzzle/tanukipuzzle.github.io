@@ -37,6 +37,6 @@ function updateAll(){
 	drawPuzzle();
 	drawMoving();
 	colorText("CoNgratulatioNs, Ishy!!", 300,100, "white");
-	colorText("Look once and look again, what letter staNds out?",200,520, "white");
+	colorText("Look once and look again, what letter staNds out?",180,520, "white");
 	}
 }

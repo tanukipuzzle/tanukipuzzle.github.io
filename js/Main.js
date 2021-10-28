@@ -36,7 +36,9 @@ function updateAll(){
 			  	8, 9, 10];
 	drawPuzzle();
 	drawMoving();
-	colorText("CoNgratulatioNs, Ishy!!", 300,100, "white");
-	colorText("Look once and look again, what letter staNds out?",180,520, "white");
+	colorText("CoNgratulatioNs, Ishy!!", 295,120, "white");
+	colorText("All of these pictures have something in common,",180,500, "white");
+	colorText("but the answer may not be so simple.",220,520, "white");
+	colorText("Look once and look again, what letter stands out?",180,540, "white");
 	}
 }
